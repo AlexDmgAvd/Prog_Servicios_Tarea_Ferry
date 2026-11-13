@@ -2,7 +2,7 @@ package net.ddns.pablotic;
 
 /**
  *
- * @author PON_TU_NOMBRE_COMPLETO_AQUÍ
+ * @author ALEXANDRE_DOMINGUEZ_AVENDANO
  */
 import java.util.ArrayList;
 import java.util.List;
